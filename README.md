@@ -1,4 +1,4 @@
-# Ze3tar  
+# ze3ter  
 Security Research • Offensive Engineering • Systems Analysis
 
 I work across offensive security and software engineering with a focus on  
