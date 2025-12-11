@@ -52,18 +52,8 @@ I use these languages for:
 - **JavaScript**: web logic analysis, client-side attack surfaces  
 - **Bash/Zsh**: environment automation, operational scripting  
 
----
 
-## GitHub Overview  
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=ze3tar&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
-
-</div>
-
-
----
 
 ## Contact  
 For collaboration or technical discussions related to security research or engineering:  
-(add your preferred contact method)
+medsalemeddah@gmail.com
