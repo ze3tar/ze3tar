@@ -1,16 +1,68 @@
-## Hi there 👋
+# Ze3tar  
+Security Research • Offensive Engineering • Systems Analysis
 
-<!--
-**ze3tar/ze3tar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work across offensive security and software engineering with a focus on  
+**vulnerability analysis, adversarial reasoning, and system-level investigation**.  
+My work is centered on understanding how software behaves under pressure and how weaknesses emerge in real environments.
 
-Here are some ideas to get you started:
+My approach is grounded, methodical, and engineering-driven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Professional Interests
+
+### Offensive Security
+- Attack surface analysis and structured reconnaissance  
+- Vulnerability research: logic flaws, memory issues, and design weaknesses  
+- Exploit methodology and controlled testing workflows  
+- Privilege escalation logic and post-exploitation strategy  
+- Understanding the architecture behind system failures  
+
+### Security Engineering & Systems Understanding
+- Linux internals and secure configuration disciplines  
+- Protocol behavior, traffic analysis, and service identification  
+- Application architecture and dependency risk evaluation  
+- Writing minimal, dependable tooling for reconnaissance and testing  
+
+### Research & Analysis
+- Studying real-world attack techniques and defensive gaps  
+- Reproducing advisories, exploit chains, and proof-of-concept logic  
+- Threat modeling and understanding attacker workflows  
+- Data-driven pattern analysis and anomaly detection  
+
+---
+
+## Languages
+
+### Core Languages I Work With
+<div>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+</div>
+
+I use these languages for:
+- **Python**: reconnaissance tooling, automation, analysis  
+- **C / C++**: memory behavior, low-level research, exploit fundamentals  
+- **Assembly**: shellcode concepts, introspection, understanding execution flow  
+- **JavaScript**: web logic analysis, client-side attack surfaces  
+- **Bash/Zsh**: environment automation, operational scripting  
+
+---
+
+## GitHub Overview  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ze3tar&show_icons=true&theme=transparent" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze3tar&layout=compact&theme=transparent" height="140">
+</div>
+
+---
+
+## Contact  
+For collaboration or technical discussions related to security research or engineering:  
+(add your preferred contact method)
