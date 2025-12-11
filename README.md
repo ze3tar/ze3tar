@@ -57,11 +57,12 @@ I use these languages for:
 ## GitHub Overview  
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ze3tar&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ze3tar&show_icons=true&theme=github_dark" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze3tar&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze3tar&layout=compact&theme=github_dark" height="150" />
 
 </div>
+
 
 
 ---
