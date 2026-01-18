@@ -91,25 +91,6 @@ My focus is on developing a deep understanding of systems rather than relying on
 - Data-driven pattern analysis and anomaly detection  
 
 ---
-
-## Languages
-
-### Core Languages I Work With
-<div>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-</div>
-
-I use these languages for:
-- **Python**: reconnaissance tooling, automation, analysis  
-- **C / C++**: memory behavior, low-level research, exploit fundamentals  
-- **Assembly**: shellcode concepts, introspection, understanding execution flow  
-- **JavaScript**: web logic analysis, client-side attack surfaces  
 - **Bash/Zsh**: environment automation, operational scripting  
 
 
