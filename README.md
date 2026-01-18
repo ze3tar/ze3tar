@@ -1,5 +1,5 @@
 # ze3ter  
-Security Research • Offensive Engineering • Systems Analysis
+Security Research • Systems Analysis
 
 I work across offensive security and software engineering with a focus on  
 **vulnerability analysis, adversarial reasoning, and system-level investigation**.  
