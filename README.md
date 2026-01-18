@@ -91,9 +91,6 @@ My focus is on developing a deep understanding of systems rather than relying on
 - Data-driven pattern analysis and anomaly detection  
 
 ---
-- **Bash/Zsh**: environment automation, operational scripting  
-
-
 
 ## Contact  
 For collaboration or technical discussions related to security research or engineering:  
